@@ -1,7 +1,6 @@
 # Microsoft-Entra-ID-SAML-Configuration
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
 The SAML project aims to establish an SSO in Microsoft Entra ID to save time, boost productivity, and enhance the overall user experience. The primary focus was establishing an identity once for Enterprise applications and services across the Microsoft Entra ID environment.
 
