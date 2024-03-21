@@ -8,8 +8,8 @@ The SAML project aims to establish an SSO in Microsoft Entra ID to save time, bo
 ### Skills Learned
 
 - Understanding of basic SAML configuration.
-- Create a SAML toolkit in Azure.
-- Ability to configure a user account in Azure AD for SSO.
+- Create a SAML toolkit in Microsoft Entra ID.
+- Ability to configure a user account in Microsoft Entra ID for SSO.
 - Knowledge and understanding of zero-trust framework.
 - Development of active directory administration.
 
